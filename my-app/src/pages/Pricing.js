@@ -1,5 +1,5 @@
 import PlanCard from "../components/PlanCard";
-
+// My first GitHub push
 function Pricing({ onSubscribe }) {
   return (
     <div>
